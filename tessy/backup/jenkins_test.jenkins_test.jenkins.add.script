@@ -2,11 +2,11 @@ $testobject {
 
 	$testcase 1 {
 		$name ""
-		$uuid "c7a0fd0c-2e0c-4907-bc89-3e7f9fa21032"
+		$uuid "67937b92-879b-4ae2-b0d0-6f4fe8bd97cf"
 
 		$teststep 1.1 {
 			$name ""
-			$uuid "e6da83e6-c124-408d-a5aa-e8788372a08c"
+			$uuid "d19b84c7-ce53-40c8-97c6-04461c22bb9e"
 			$inputs {
 				a = 2
 				b = 3
@@ -24,11 +24,11 @@ $testobject {
 
 	$testcase 2 {
 		$name ""
-		$uuid "ca23b4c4-97f0-4e19-9ed4-578973e5e71e"
+		$uuid "53be40e2-8389-44a5-aaf8-d2f5070ace1a"
 
 		$teststep 2.1 {
 			$name ""
-			$uuid "51cf6a70-28e5-4c6a-ab28-593a243b73d6"
+			$uuid "785e2b62-e209-4a67-b5f2-f3de742047bb"
 			$inputs {
 				a = 4
 				b = 5

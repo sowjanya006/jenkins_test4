@@ -4,7 +4,7 @@
         <operation key="executeTest">
             <options>
                 <option key="checkInterface" value="false"/>
-                <option key="generateDriver" value="true"/>
+                <option key="generateDriver" value="false"/>
                 <option key="run" value="true"/>
                 <option key="createNewTestRun" value="false"/>
                 <option key="retryAbortedExecution" value="false"/>
